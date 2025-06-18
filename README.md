@@ -1,12 +1,12 @@
-# Halo semua! 👋
- 
-Perkenalkan, saya **Yusuf Abdilhaq**, mahasiswa Informatika di STIKOM El Rahma. Saya punya passion kuat di pengembangan web dan data, didukung pengalaman sebagai **Full Stack Developer** di PT Jago Inovasi Bisnis. Selain itu, saya juga aktif sebagai **asisten dosen** dan **instruktur pemrograman web** di kampus.
- 
-Saya juga memiliki sertifikasi internasional dari Alibaba Cloud berupa **Certified Developer** dan **Certified Developer Generative AI**
- 
-Di luar dunia coding dan mengajar, saya juga suka berorganisasi. Saya pernah jadi Ketua Himpunan Mahasiswa Informatika (HIMAIF), pegang kemitraan Google Developer Group (GDG) Bogor, dan mengelola sponsor untuk Student Management and Leadership Training (SMELT). Pengalaman ini banyak ngajarin saya tentang kepemimpinan, kolaborasi, dan manajemen proyek.
- 
-Tertarik ngobrol atau kenalan lebih jauh? Yuk, follow atau connect di [LinkedIn](https://www.linkedin.com/in/yusuf-abdilhaq/) saya!
+# 👋 Hi there, I'm Yusuf Abdilhaq!
+
+I'm an Informatics student at STIKOM El Rahma with a passion for web development and data. I’ve worked as a **Full Stack Developer** at PT Jago Inovasi Bisnis and currently serve as a **Front-End Mentor** at HIMAIF, as well as a **Lecturer Asistant and Web Programming Instructor** at my campus.
+
+I hold international certifications from Alibaba Cloud as a **Certified Developer** and **Certified Developer in Generative AI**.
+
+Beyond coding and teaching, I'm active in student organizations. I previously led the Informatics Student Association (HIMAIF), collaborated with **Google Developer Group (GDG) Bogor**, and managed sponsorships for leadership programs like **SMELT** — experiences that shaped my skills in leadership, teamwork, and project management.
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yusuf-abdilhaq/)!
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
