@@ -12,7 +12,7 @@ Beyond coding and teaching, I'm active in student organizations. I previously le
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
   <a href="https://svelte.dev/"><img align="left" alt="SvelteJs" title="SvelteJs" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
+  <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <br>
   <br>
